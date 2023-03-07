@@ -2,8 +2,8 @@
 layout: post
 title: "An introduction to AI in the news domain"
 author:
-- Benjamin Rech, 
 - Hannah Greven
+- Benjamin Rech 
 ---
 
 
