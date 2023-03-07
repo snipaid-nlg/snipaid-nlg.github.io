@@ -1,5 +1,7 @@
 ## An introduction to AI in the news domain: How artificial intelligence is transforming the way news is researched, produced, and distributed
 
+![Robots hand typing on a typewriter](https://user-images.githubusercontent.com/36483428/223438320-986afdb4-af04-47d7-afc2-729d30ae38dc.jpg)
+
 Artificial Intelligence (AI) is a field of computer science and engineering focused on the development of intelligent machines that can perform tasks that typically require human intelligence, such as understanding natural language, recognizing images and patterns, making decisions, and learning from experience.
 
 ### How can AI Tech be used in journalism?
