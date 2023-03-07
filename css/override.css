@@ -47,3 +47,7 @@ hr {
 .social-media-list {
   margin-bottom: 0;
 }
+
+.social-media-list > li {
+  padding-top: 0;
+}
