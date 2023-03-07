@@ -1,5 +1,7 @@
 title: "News Snippet Generation"
-author: "SnipAId Team: Hannah Greven & Benjamin Rech"
+author: SnipAId Team
+- Hannah Greven
+- Benjamin Rech
 description: "A Learning Journey on Open Source Large Language Models and how to assist journalists with generative AI in German" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
@@ -14,7 +16,7 @@ github_username: "snipaid-nlg"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
-website: snipaid.tech
+website_name: snipaid.tech
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
