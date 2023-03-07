@@ -21,7 +21,7 @@ website: snipaid.tech
 #########################################################################################
 theme: "minima"
 
-show_excerpts: true
+#show_excerpts: true
 
 rss: rss
 
