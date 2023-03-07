@@ -44,10 +44,10 @@ hr {
   opacity: 0.3;
 }
 
-.social-media-list {
-  margin-bottom: 0;
+ul.social-media-list {
+    margin-bottom: 0;
 }
 
-.social-media-list > li {
+.social-media-list li+li {
   padding-top: 0;
 }
