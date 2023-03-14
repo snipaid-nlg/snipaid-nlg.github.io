@@ -27,7 +27,6 @@ To attract attention, news articles are distributed across several different onl
 
 Writing Snippets is a challenge for journalists and newsroom editors, as they need to create tailored Snippets for each distribution channel to capture readers' attention and convey the essence of their articles with differing requirements in length, tone and audience.
 
-<p><code>wrapAround: true</code></p>
 <!-- Flickity HTML init -->
 <div class="gallery js-flickity"
   data-flickity-options='{ "wrapAround": true }'>
