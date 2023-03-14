@@ -13,7 +13,6 @@
     effect: "'fade'"
 
 - selector: snippet_slider
-  captions: true
   images:
     - src: https://user-images.githubusercontent.com/36483428/224949204-e2a0570a-f2cd-4f7c-a183-0a5980f91400.png
       alt: Preview of the article in the category News > Software & Development on the t3n website with image, title and teaser
