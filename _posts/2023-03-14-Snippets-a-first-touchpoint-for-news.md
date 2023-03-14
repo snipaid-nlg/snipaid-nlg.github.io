@@ -4,12 +4,7 @@ title: "Snippets: A First Touchpoint for News and how to generate them with AI"
 author:
 - Hannah Greven
 - Benjamin Rech 
-customjs:
-- https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js
 ---
-
-<!-- CSS -->
-<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"> 
 
 ## Snippets: A First Touchpoint for News and how to generate them with AI
 
@@ -25,24 +20,24 @@ Snippets help readers contextualize the content of the article and build an expe
 
 To attract attention, news articles are distributed across several different online channels. Articles appear with their Snippets on websites, as Link Previews in social media feeds and messenger apps, in newsletters and on the result pages of search engines. 
 
-**Here are some real-world examples of snippets for a [news article](https://t3n.de/news/rumaenien-ki-regierungsberater-ion-1538502/):**
+**Here are some real-world examples of snippets for a [t3n news article on the the Romanian AI consultant ION](https://t3n.de/news/rumaenien-ki-regierungsberater-ion-1538502/):**
 
-![Preview of the article in the category News > Software & Development on the t3n website with image, title and teaser](https://user-images.githubusercontent.com/36483428/224949204-e2a0570a-f2cd-4f7c-a183-0a5980f91400.png)  
+<kbd>![Preview of the article in the category News > Software & Development on the t3n website with image, title and teaser](https://user-images.githubusercontent.com/36483428/224949204-e2a0570a-f2cd-4f7c-a183-0a5980f91400.png)</kbd>  
 *Preview of the article in the category News > Software & Development on the t3n website with image, title and teaser*
 
-![Record of the news with its title in the Newsticker section of the t3n website](https://user-images.githubusercontent.com/36483428/224949210-9cc055f5-fe45-4a89-97c9-d14f26c52d7e.png)  
+<kbd>![Record of the news with its title in the Newsticker section of the t3n website](https://user-images.githubusercontent.com/36483428/224949210-9cc055f5-fe45-4a89-97c9-d14f26c52d7e.png)</kbd>  
 *Record of the news with its title in the Newsticker section of the t3n website*
 
-![Summary with a special title for the “t3n Daily” newsletter](https://user-images.githubusercontent.com/36483428/224949213-a30d667b-4785-4095-8764-62a6b6378025.png)  
+<kbd>![Summary with a special title for the “t3n Daily” newsletter](https://user-images.githubusercontent.com/36483428/224949213-a30d667b-4785-4095-8764-62a6b6378025.png)</kbd>  
 *Summary with a special title for the “t3n Daily” newsletter*
 
-![Preview of the article in Google search with short title, teaser, breadcrumbs and timestamp](https://user-images.githubusercontent.com/36483428/224949219-76288a14-808f-46d9-93e4-bfc9520b006a.png)  
+<kbd>![Preview of the article in Google search with short title, teaser, breadcrumbs and timestamp](https://user-images.githubusercontent.com/36483428/224949219-76288a14-808f-46d9-93e4-bfc9520b006a.png)</kbd>  
 *Preview of the article in Google search with short title, teaser, breadcrumbs and timestamp*
 
-![Preview of the article in Google News with long title, timestamp and image](https://user-images.githubusercontent.com/36483428/224949220-04ecba2f-f96b-4880-8971-02a4af235fff.png)  
+<kbd>![Preview of the article in Google News with long title, timestamp and image](https://user-images.githubusercontent.com/36483428/224949220-04ecba2f-f96b-4880-8971-02a4af235fff.png)</kbd>  
 *Preview of the article in Google News with long title, timestamp and image*
 
-![Tweet about the article with a summary as text and a link preview consisting of image, title and teaser](https://user-images.githubusercontent.com/36483428/224949223-c513d5a1-0af4-47d6-9f45-f91c071e9ba4.png)  
+<kbd>![Tweet about the article with a summary as text and a link preview consisting of image, title and teaser](https://user-images.githubusercontent.com/36483428/224949223-c513d5a1-0af4-47d6-9f45-f91c071e9ba4.png)</kbd>  
 *Tweet about the article with a summary as text and a link preview consisting of image, title and teaser*
 
 Writing those Snippets is a challenge for journalists and newsroom editors, as they need to create tailored Snippets for each distribution channel to capture readers' attention and convey the essence of their articles with differing requirements in length, tone and audience.
