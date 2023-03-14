@@ -20,7 +20,7 @@ Snippets help readers contextualize the content of the article and build an expe
 
 To attract attention, news articles are distributed across several different online channels. Articles appear with their Snippets on websites, as Link Previews in social media feeds and messenger apps, in newsletters and on the result pages of search engines. 
 
-**Here are some real-world examples of snippets for a [t3n news article on the the Romanian AI consultant ION](https://t3n.de/news/rumaenien-ki-regierungsberater-ion-1538502/):**
+#### Here are some real-world examples of snippets for a [t3n news article on the the Romanian AI consultant ION](https://t3n.de/news/rumaenien-ki-regierungsberater-ion-1538502/):
 
 <kbd><img src="https://user-images.githubusercontent.com/36483428/224949204-e2a0570a-f2cd-4f7c-a183-0a5980f91400.png" alt="Preview of the article in the category News > Software & Development on the t3n website with image, title and teaser"></kbd>  
 *Preview of the article in the category News > Software & Development on the t3n website with image, title and teaser*
