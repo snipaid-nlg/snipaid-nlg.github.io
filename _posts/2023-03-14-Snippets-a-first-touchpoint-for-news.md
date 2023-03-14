@@ -4,12 +4,12 @@ title: "Snippets: A First Touchpoint for News and how to generate them with AI"
 author:
 - Hannah Greven
 - Benjamin Rech 
-image_sliders:
-- snippet_slider
+customjs:
+- https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js
 ---
 
 <!-- CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> 
+<link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"> 
 
 ## Snippets: A First Touchpoint for News and how to generate them with AI
 
@@ -27,7 +27,16 @@ To attract attention, news articles are distributed across several different onl
 
 Writing Snippets is a challenge for journalists and newsroom editors, as they need to create tailored Snippets for each distribution channel to capture readers' attention and convey the essence of their articles with differing requirements in length, tone and audience.
 
-{% include slider.html selector="snippet_slider" %}
+<!-- Flickity HTML init -->
+<div class="gallery js-flickity"
+  data-flickity-options='{ "wrapAround": true }'>
+  <div class="gallery-cell"><img src="https://user-images.githubusercontent.com/36483428/224949204-e2a0570a-f2cd-4f7c-a183-0a5980f91400.png" alt="Preview of the article in the category News > Software & Development on the t3n website with image, title and teaser"></div>
+  <div class="gallery-cell"><img src="https://user-images.githubusercontent.com/36483428/224949210-9cc055f5-fe45-4a89-97c9-d14f26c52d7e.png" alt="Record of the news with its title in the Newsticker section of the t3n website"></div>
+  <div class="gallery-cell"><img src="https://user-images.githubusercontent.com/36483428/224949213-a30d667b-4785-4095-8764-62a6b6378025.png" alt="Summary with a special title for the “t3n Daily” newsletter"></div>
+  <div class="gallery-cell"><img src="https://user-images.githubusercontent.com/36483428/224949219-76288a14-808f-46d9-93e4-bfc9520b006a.png" alt="Preview of the article in Google search with short title, teaser, breadcrumbs and timestamp"></div>
+  <div class="gallery-cell"><img src="https://user-images.githubusercontent.com/36483428/224949220-04ecba2f-f96b-4880-8971-02a4af235fff.png" alt="Preview of the article in Google News with long title, timestamp and image"></div>
+  <div class="gallery-cell"><img src="https://user-images.githubusercontent.com/36483428/224949223-c513d5a1-0af4-47d6-9f45-f91c071e9ba4.png" alt="Tweet about the article with a summary as text and a link preview consisting of image, title and teaser"></div>
+</div>
 
 ### AI to the rescue?
 
