@@ -13,7 +13,6 @@
     effect: "'fade'"
 
 - selector: snippet_slider
-  bullets: true
   captions: true
   images:
     - src: https://user-images.githubusercontent.com/36483428/224949204-e2a0570a-f2cd-4f7c-a183-0a5980f91400.png
