@@ -25,13 +25,13 @@ To attract attention, news articles are distributed across several different onl
 > ![Preview of the article in the category News > Software & Development on the t3n website with image, title and teaser](https://user-images.githubusercontent.com/36483428/224949204-e2a0570a-f2cd-4f7c-a183-0a5980f91400.png)  
 *Preview of the article in the category News > Software & Development on the t3n website with image, title and teaser*
 
-> ![Record of the news with its title in the Newsticker section of the t3n website](https://user-images.githubusercontent.com/36483428/224949210-9cc055f5-fe45-4a89-97c9-d14f26c52d7e.png)
+> ![Record of the news with its title in the Newsticker section of the t3n website](https://user-images.githubusercontent.com/36483428/224949210-9cc055f5-fe45-4a89-97c9-d14f26c52d7e.png)  
 *Record of the news with its title in the Newsticker section of the t3n website*
 
-> ![Summary with a special title for the “t3n Daily” newsletter](https://user-images.githubusercontent.com/36483428/224949213-a30d667b-4785-4095-8764-62a6b6378025.png) 
+> ![Summary with a special title for the “t3n Daily” newsletter](https://user-images.githubusercontent.com/36483428/224949213-a30d667b-4785-4095-8764-62a6b6378025.png)  
 *Summary with a special title for the “t3n Daily” newsletter*
 
-> ![Preview of the article in Google search with short title, teaser, breadcrumbs and timestamp](https://user-images.githubusercontent.com/36483428/224949219-76288a14-808f-46d9-93e4-bfc9520b006a.png)    
+> ![Preview of the article in Google search with short title, teaser, breadcrumbs and timestamp](https://user-images.githubusercontent.com/36483428/224949219-76288a14-808f-46d9-93e4-bfc9520b006a.png)  
 *Preview of the article in Google search with short title, teaser, breadcrumbs and timestamp*
 
 > ![Preview of the article in Google News with long title, timestamp and image](https://user-images.githubusercontent.com/36483428/224949220-04ecba2f-f96b-4880-8971-02a4af235fff.png)  
