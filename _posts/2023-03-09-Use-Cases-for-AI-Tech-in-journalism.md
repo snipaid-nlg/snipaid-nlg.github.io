@@ -54,6 +54,6 @@ From sentiment analysis and topic modeling to text generation and personalized c
 - **Ad targeting and optimization** using AI to determine the most effective ad placements and content for specific audience segments.
 - **Moderation systems** for user-generated-content (i.e. comments) to encourage constructive discussion and eliminate harassment and abuse.
 
-*"Use cases for AI Tech in journalism" is the second part of our series News Snippet Generation. A Learning Journey on Open Source Large Language Models and how to assist journalists with generative AI in German.*
-
 TL;DR: AI will not replace the work of journalists, but can assist them in many of their daily tasks throughout the journalistic production process. In research, it can help with tasks such as social media monitoring and keyword research. In production, it can be used for natural language generation, transcription, editing and summarization. In distribution, it can help with content personalisation, audience targeting and moderation. The full list of use cases is even longer.
+
+*"Use cases for AI Tech in journalism" is the second part of our series News Snippet Generation. A Learning Journey on Open Source Large Language Models and how to assist journalists with generative AI in German.*
