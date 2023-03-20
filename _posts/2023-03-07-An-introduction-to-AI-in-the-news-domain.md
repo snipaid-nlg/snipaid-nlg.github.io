@@ -43,6 +43,6 @@ A [representative survey of the German population in 2021](https://www.cais-rese
 
 A [2020 survey among 385 German journalists](https://arxiv.org/abs/2105.07881) revealed that over 60% of respondents had never used AI technology, with less than 20% having interacted with it.
 
-*“AI in the news domain” is the first part of our series News Snippet Generation. A Learning Journey on Open Source Large Language Models and how to assist journalists with generative AI in German.*
-
 TL;DR:  AI can be used throughout all three phases of the journalistic production process to assist journalists in their work. Media decision makers consider AI as the most important driver of innovation in journalism. However, readers view AI in journalistic newsrooms critically and only few German journalists have hands-on experience with AI.
+
+*“An introduction to AI in the news domain” is the first part of our series News Snippet Generation. A Learning Journey on Open Source Large Language Models and how to assist journalists with generative AI in German.*
