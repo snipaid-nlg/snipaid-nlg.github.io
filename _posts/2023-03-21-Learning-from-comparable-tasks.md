@@ -34,7 +34,7 @@ We tested german-news-title-gen-mt5 on the 10kGNAD dataset and found promising r
 > **Boris Johnson im Brexit: Der wütende Hulk**  
 > Der britische Premier Boris Johnson hält daran fest, sein Land am 31. Oktober aus der EU führen zu wollen. Auf Kritik reagiert er mit drastischen Vergleichen.
 
-**Generated Headlines**  
+#### Generated Headlines  
 > Britischer Premier Johnson <ins>unterstricht</ins> Brexit-Entschlossenheit  
 > Boris Johnson: Der Ton wird <ins>rauher</ins> in Großbritannien  
 > Britischer Premierminister Boris Johnson <ins>unterstricht</ins> Brexit-Entschlossenheit
