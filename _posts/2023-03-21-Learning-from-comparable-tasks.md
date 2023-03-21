@@ -21,7 +21,7 @@ In terms of semantics, the headline of a news report is determined by the top le
 This use case of an assistive technology was worked on early (i.e. [Dorr et al. 2003](https://doi.org/10.3115/1119467.1119468)), moving from an extractive to an abstractive paradigm (see [PapersWithCode](https://paperswithcode.com/task/headline-generation/latest)).
 
 - **Extractive:** Taking the most important phrases or sentences from the text.
-- **Abstractive:** Convey the same meaning with new phrases and terms that differ from the text (rephrase).
+- **Abstractive:** Convey the same meaning with rephrasing and terms that differ from the text.
 
 In 2019 Christian Schäfer and Dat Tran developed [Headliner](https://github.com/as-ideas/headliner). Headliner is a sequence modeling library that eases the training and in particular, the deployment of custom sequence-to-sequence (seq2seq) models: a basic encoder-decoder, an encoder-decoder with Luong attention, a transformer and a transformer on top of a pre-trained BERT-model.
 
