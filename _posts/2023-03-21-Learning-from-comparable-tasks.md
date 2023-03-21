@@ -29,11 +29,17 @@ In October 2022 the AIAUTOMATIONLAB from Bayerischer Rundfunk (BR; "Bavarian Bro
 
 We tested german-news-title-gen-mt5 on the 10kGNAD dataset and found promising results in terms of model size and inference speed. Although we observed some issues with fluency in German ([Notebook](https://github.com/snipaid-nlg/models/blob/main/news-headline-generation/news-headline-generation-with-german-news-title-gen-mt5.ipynb)).
 
-| Original Headline and Teaser | Generated Headlines  |
-|:---|:---|
-| **Boris Johnson im Brexit: Der wütende Hulk** </br> Der britische Premier Boris Johnson hält daran fest, sein Land am 31. Oktober aus der EU führen zu wollen. Auf Kritik reagiert er mit drastischen Vergleichen. | <ul><li>Britischer Premier Johnson <ins>unterstricht</ins> Brexit-Entschlossenheit</li><li>Boris Johnson: Der Ton wird <ins>rauher</ins> in Großbritannien</li><li>Britischer Premierminister Boris Johnson <ins>unterstricht</ins> Brexit-Entschlossenheit</li></ul>|
+#### Original Headline and Teaser
 
-Example of generated headings by german-news-title-gen-mt5 on 10kGNAD (ID 6334)
+> **Boris Johnson im Brexit: Der wütende Hulk**  
+> Der britische Premier Boris Johnson hält daran fest, sein Land am 31. Oktober aus der EU führen zu wollen. Auf Kritik reagiert er mit drastischen Vergleichen.
+
+**Generated Headlines**  
+> Britischer Premier Johnson <ins>unterstricht</ins> Brexit-Entschlossenheit  
+> Boris Johnson: Der Ton wird <ins>rauher</ins> in Großbritannien  
+> Britischer Premierminister Boris Johnson <ins>unterstricht</ins> Brexit-Entschlossenheit
+
+*Example of generated headings by german-news-title-gen-mt5 on 10kGNAD (ID 6334)*
 
 ### The Task of Text Summarization
 
@@ -48,10 +54,12 @@ Recently, [Aumiller et al](https://arxiv.org/abs/2301.07095) tested the state of
 
 We tested a [summarization model developed by Phillp May](https://huggingface.co/T-Systems-onsite/mt5-small-sum-de-en-v2) on the 10kGNAD dataset and observed that the model consistently produced short summaries with only minor language issues. The model was trained on Google's mt5-small, which has 300 million parameters and is surprisingly fast. View the notebook: [Text Summarization with mt5-small-sum-de-en-v2 on gnad10](https://github.com/snipaid-nlg/models/blob/main/text-summarization/news-summarization-with-mt5-small-sum-de-en-v2-on-gnad10.ipynb)
 
-Generated Examples:
-- Der 21-Jährige erlitt beim 0:4 gegen Mödling einen Teilriss des Innenbandes im linken Knie. Der 21-Jährige <ins>erlitt</ins> eine Schiene, muss aber nicht operiert werden.
-- The Forbidden Room ist ein Two-Reeler von 1913/14, der <ins>der</ins> arbeitswütige US-Regisseur Allan Dwan gedreht hat. <ins>Der Film enthält die Fragmente eines Kinos, an das wir uns nicht mehr erinnern können.</ins>
-- Die Zeiten des harten Management-Stils sind bei Google vorbei. Das belegen zahlreiche ehemalige Mitarbeiter und Geschäftspartner.
+#### Generated Examples
+> Der 21-Jährige erlitt beim 0:4 gegen Mödling einen Teilriss des Innenbandes im linken Knie. Der 21-Jährige <ins>erlitt</ins> eine Schiene, muss aber nicht operiert werden.  
+
+> The Forbidden Room ist ein Two-Reeler von 1913/14, der <ins>der</ins> arbeitswütige US-Regisseur Allan Dwan gedreht hat. <ins>Der Film enthält die Fragmente eines Kinos, an das wir uns nicht mehr erinnern können.</ins>  
+
+> Die Zeiten des harten Management-Stils sind bei Google vorbei. Das belegen zahlreiche ehemalige Mitarbeiter und Geschäftspartner.
 
 ### Conclusion
 
