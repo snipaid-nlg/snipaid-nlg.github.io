@@ -42,7 +42,7 @@ This was a significant advancement from previous SOTA RNNs with LSTM or GRU, as 
 
 ### Generative Pretrained Transformers
 
-*Definitely check out [this great Medium Article](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb) written by Cameron R. Wolfe if you are interested in further detail and explanations. We will summarize the essentials from "language modeling at a glance" in this section.*
+> *Definitely check out [this great Medium Article](https://towardsdatascience.com/language-model-scaling-laws-and-gpt-3-5cdc034e67bb) written by Cameron R. Wolfe if you are interested in further detail and explanations. We will summarize the essentials from "language modeling at a glance" in this section.*
 
 LMs are trained on large corpora of text using a causal language modeling objective that  
 1. samples some text from the training corpus and  
