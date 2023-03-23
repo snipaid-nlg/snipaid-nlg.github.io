@@ -36,7 +36,8 @@ Self-attention allows the model to focus on the most relevant parts of the input
 
 The original transformer architecture consists of two main components: the encoder and the decoder. Each layer in the encoder and decoder consists of multi-head self-attention and feed-forward neural network sub-layers. The encoder processes the input and generates a representation of the input in the form of embeddings. The decoder then uses these embeddings to generate the output.
 
-![Sketch of the transformer architecture](https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png)
+> ![Sketch of the transformer architecture](https://machinelearningmastery.com/wp-content/uploads/2021/08/attention_research_1.png)
+> *The Transformer model architecture ([Source](https://arxiv.org/pdf/1706.03762.pdf))*
 
 This was a significant advancement from previous SOTA RNNs with LSTM or GRU, as the Transformer model architecture is highly parallelizable and can process long sequences effectively without loss of information.
 
