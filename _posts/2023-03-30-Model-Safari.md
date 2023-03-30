@@ -102,6 +102,6 @@ None of the tested models are able to solve the task of news snippet generation 
 
 These models have the potential to be adapted to the task, but further work is needed to make them a viable solution. In the next few posts, we'll explore how to adapt these models.
 
-TL;DR: GPT-3 is capable of generating a variety of news snippets in German language by simply prompting the model. On the search for an Open Source competitor, the following became clear. There are competitors both pre-trained and some even instruction-tuned. However, they are deficient in their ability to handle German language. To solve the task of news snippet generation for German news further adaptation will be necessary.
+TL;DR: GPT-3 is capable of generating a variety of news snippets in German language by simply prompting the model. On the search for an Open Source competitor, the following became clear. There are competitors both pre-trained and some even instruction-tuned. However, none of them has the ability to deal with both German language and human prompts. To solve the task of news snippet generation for German news further adaptation will be necessary.
 
 *"The model safari: An Explorative model comparison" is part eight of our series News Snippet Generation. A Learning Journey on Open Source Large Language Models and how to assist journalists in generating headlines and teasers in German with AI.*
