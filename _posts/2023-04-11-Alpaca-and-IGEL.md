@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Alpaca and IGEL: Supporting German Language through Multitask Prompted Fine Tuning (Part 1)"
+title: "Alpaca and IGEL: Supporting German Language through Multitask Prompted Fine Tuning"
 author:
 - Hannah Greven
 - Benjamin Rech 
 ---
 
-## Alpaca and IGEL: Supporting German Language through Multitask Prompted Fine Tuning (Part 1)
+## Alpaca and IGEL: Supporting German Language through Multitask Prompted Fine Tuning
 
 ![Hedgehog](https://user-images.githubusercontent.com/36483428/231294738-fe69eca0-f23a-4abc-8d4d-eb38781d2474.jpg)
 
@@ -64,5 +64,5 @@ A short test of the out of the box snippet generation capabilities of both germa
 
 TL;DR: Stanford Alpaca accelerated development towards german instruction finetuned language models. With German Alpaca and IGEL, the first German instruct language models have arrived. Putting both to the test, we find IGEL more capable.
 
-*“Alpaca and IGEL: Supporting German Language through Multitask Prompted Fine Tuning (Part 1)” is part eleven of our series News Snippet Generation. A Learning Journey on Open Source Large Language Models and how to assist journalists in generating headlines and teasers in German with AI.*
+*“Alpaca and IGEL: Supporting German Language through Multitask Prompted Fine Tuning” is part eleven of our series News Snippet Generation. A Learning Journey on Open Source Large Language Models and how to assist journalists in generating headlines and teasers in German with AI.*
 
